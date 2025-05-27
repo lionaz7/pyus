@@ -1,0 +1,11 @@
+{
+    "Name": "Example UFF2BIDS Export Dataset",
+    "BIDSVersion": "1.7.0",
+    "License": "CC0",
+    "Authors": [
+        "Test User"
+    ],
+    "Acknowledgements": "Generated as part of a test-only export tool.",
+    "HowToAcknowledge": "Do not cite. This dataset is for testing purposes only.",
+    "DatasetType": "raw"
+}
